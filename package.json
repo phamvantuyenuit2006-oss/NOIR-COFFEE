@@ -1,7 +1,13 @@
 {
   "name": "noir-coffee-roasters",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "NOIR Coffee Roasters - Artisanal Specialty Coffee Experience",
+  "author": "Pham Van Tuyen <phamvantuyenuit2006@gmail.com> (https://github.com/phamvantuyenuit2006-oss)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phamvantuyenuit2006-oss/NOIR-COFFEE.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",

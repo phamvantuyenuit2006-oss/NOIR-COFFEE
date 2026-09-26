@@ -175,15 +175,15 @@ export const Footer: React.FC = () => {
 
         </div>
 
-        {/* Bottom copyright & Hotline (Sáng sủa, chữ to đẹp) */}
-        <div className="pt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-stone-300 text-sm sm:text-base">
-          <p className="font-medium">
-            {t.footer.copyright} <a href="tel:0916323701" className="text-[#E5B887] font-bold hover:underline font-mono">0916 323 701</a>
+        {/* Bottom copyright & Ownership Info */}
+        <div className="pt-6 flex flex-col md:flex-row items-center justify-between gap-3 text-stone-300 text-sm sm:text-base border-t border-stone-800/80">
+          <p className="font-medium text-center md:text-left">
+            {t.footer.copyright}
           </p>
-          <div className="flex items-center gap-3">
-            <span>Email: <strong className="text-white font-mono">phamvantuyenuit2006@gmail.com</strong></span>
+          <div className="flex flex-wrap items-center justify-center gap-3 text-xs sm:text-sm text-stone-300">
+            <span>Hotline: <a href="tel:0916323701" className="text-[#E5B887] font-bold hover:underline font-mono">0916 323 701</a></span>
             <span>•</span>
-            <span className="text-[#E5B887] font-bold">{t.footer.tagline}</span>
+            <span>Email: <a href="mailto:phamvantuyenuit2006@gmail.com" className="text-white font-mono hover:text-[#E5B887]">phamvantuyenuit2006@gmail.com</a></span>
           </div>
         </div>
       </div>

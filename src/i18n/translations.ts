@@ -352,8 +352,8 @@ export const TRANSLATIONS: Record<Language, Translations> = {
       trust3Desc: 'Degas 7-14 ngày chuẩn',
       trust4Title: '0916 323 701',
       trust4Desc: 'Hotline tư vấn 24/7',
-      copyright: '© 2026 NOIR Coffee Roasters • Hotline:',
-      tagline: 'Cà Phê Đặc Sản'
+      copyright: '© 2026 NOIR Coffee Roasters. Bản quyền thuộc về Phạm Văn Tuyên (Pham Van Tuyen).',
+      tagline: 'Specialty Coffee'
     },
     chatbot: {
       triggerText: 'Barista AI',
@@ -526,7 +526,7 @@ export const TRANSLATIONS: Record<Language, Translations> = {
       trust3Desc: '7-14 Day Degas Peak',
       trust4Title: '0916 323 701',
       trust4Desc: '24/7 Dedicated Hotline',
-      copyright: '© 2026 NOIR Coffee Roasters • Hotline:',
+      copyright: '© 2026 NOIR Coffee Roasters. Copyright & All Rights Reserved by Pham Van Tuyen.',
       tagline: 'Specialty Coffee'
     },
     chatbot: {

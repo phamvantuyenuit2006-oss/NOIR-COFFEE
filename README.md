@@ -173,13 +173,27 @@ noir-coffee-roasters/
 
 ---
 
-## 📞 6. Thông Tin Liên Hệ (Contact & Support)
+## 👤 6. Tác Giả & Bản Quyền Sở Hữu (Author & Copyright)
 
-- **Đơn vị phát triển:** NOIR Specialty Coffee Roasters Team
-- **Hotline đặt bàn & giao hàng:** `0916 323 701`
-- **Email hỗ trợ:** `phamvantuyenuit2006@gmail.com`
+- **Tác giả & Chủ sở hữu dự án:** **Phạm Văn Tuyên (Pham Van Tuyen)**
+- **GitHub:** [@phamvantuyenuit2006-oss](https://github.com/phamvantuyenuit2006-oss)
+- **Repository:** [https://github.com/phamvantuyenuit2006-oss/NOIR-COFFEE](https://github.com/phamvantuyenuit2006-oss/NOIR-COFFEE)
+- **Hotline & Zalo:** `0916 323 701`
+- **Email:** [phamvantuyenuit2006@gmail.com](mailto:phamvantuyenuit2006@gmail.com)
 - **Địa chỉ Flagship:** 48 Đồng Khởi, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh
 
 ---
 
-*© 2026 NOIR Coffee Roasters. All rights reserved. Crafted with passion for specialty coffee lovers.*
+## 📜 7. Giấy Phép (License)
+
+Dự án thuộc quyền sở hữu trí tuệ của **Phạm Văn Tuyên**.  
+Mọi quyền được bảo lưu (All Rights Reserved).
+
+```text
+Copyright © 2026 Pham Van Tuyen (phamvantuyenuit2006-oss). All Rights Reserved.
+```
+
+---
+
+*© 2026 NOIR Coffee Roasters — Bản quyền thuộc về Phạm Văn Tuyên (Pham Van Tuyen).*
+
